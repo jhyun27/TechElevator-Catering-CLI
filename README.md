@@ -1,2 +1,2 @@
-# TechElevator-Catering-CLI
+# techelevator-catering-consoleapp
 Tech Elevator Capstone #1
